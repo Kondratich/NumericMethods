@@ -7,10 +7,10 @@
         
 
         {
-            "name": "Python: Current File",
+            "name": "Python: Main.py",
             "type": "python",
             "request": "launch",
-            "program": "Main.py",
+            "program": "Main",
             "console": "integratedTerminal",
             "justMyCode": true
         }
