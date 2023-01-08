@@ -10,7 +10,8 @@
             "name": "Python: Main.py",
             "type": "python",
             "request": "launch",
-            "program": "Main",
+            "program": "Main.py",
+            "terminal.integrated.gpuAcceleration": "off",
             "console": "integratedTerminal",
             "justMyCode": true
         }

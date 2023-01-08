@@ -7,4 +7,3 @@
 # pylint: disable=missing-final-newline
 
 print ("Hi")
-print ("Hello World")
